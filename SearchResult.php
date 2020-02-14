@@ -45,7 +45,7 @@
 				echo "Pharmacy Name     Address                    Mobile<br>";
 				echo "----------------  -----------                ----------<br>";
 				while($row = $result->fetch_assoc()) 
-					echo "".$row['pharm_name']."     ".$row['address']."         ".$row['mobile_no']."<br>";
+					echo "".$row['pharm_name']."     ".$row['address']."         ".$row['mobile_no']."         ".$row['price']."<br>";
 			}
 			
 			

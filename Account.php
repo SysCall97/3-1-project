@@ -7,7 +7,7 @@
 
 <html>
 	<head>
-		<title>Home</title>
+		<title>Account</title>
 		<link rel="stylesheet" type="text/css" href="homeCss.css">
 	</head>
 	<body>
@@ -16,7 +16,7 @@
 			<a href="Logout.php" style="text-decoration: none;">Log out</a>
 		</div>
 		<div class="options">
-			<a href="Buy.php"><button class="upper-right"><h3>Buy</h3></button></a></br>
+			<a href="add_to_storage.php"><button class="upper-right"><h3>Add to storage</h3></button></a></br>
 			<a href="Sell.php"><button class="upper-left"><h3>Sell</h3></button></a></br>
 			<a href="Transactions.php"><button class="lower-right"><h3>Transactions</h3></button></a></br>
 			<a href="Storage.php"><button class="lower-left"><h3>Storage</h3></button></a></br>
